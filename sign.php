@@ -1,6 +1,6 @@
 <?php
-$username = "strwei";
-$password = "Ly.507613";
+$username = "ddd";
+$password = "22";
 set_time_limit(600);
 $suburl = "https://www.hostloc.com/member.php?mod=logging&action=login";
 $loginInfo = array(
